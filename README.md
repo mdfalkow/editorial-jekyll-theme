@@ -1,8 +1,10 @@
-# (WIP) Editorial - Jekyll Theme | Alternative Color Scheme
+# Editorial - Jekyll Theme | Alternative Color Scheme
 
-A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/) using an alternative color scheme.
+A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/) using an alternative color scheme designed by me, [@mdfalkow](https://github.com/mdfalkow/).
 
-![Editorial Theme](assets/images/screenshot.jpg "Editorial Theme")
+For the original version, see [https://html5up.net/editorial](https://html5up.net/editorial). 
+
+The Jekyll integrated version can be found at [https://github.com/andrewbanchich/editorial-jekyll-theme](https://github.com/andrewbanchich/editorial-jekyll-theme).
 
 # How to Use
 
@@ -38,7 +40,9 @@ You can use the following custom parameters in `_config.yml`.
 
 # Issues
 
-If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/editorial-jekyll-theme) and I will be more than happy to help!
+If you would like to report a bug or ask a question **concerning the color scheme**, feel free to open an issue in this repository with the [BUG] or [QUESTION] tags respectively.
+
+If you would like to report a bug, ask a question, or request a feature **that do not concern the color scheme**, visit [the GitLab repository](https://gitlab.com/andrewbanchich/editorial-jekyll-theme) for the original iteration of the Jekyll version of this template.
 
 Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/editorial-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/editorial-jekyll-theme@incoming.gitlab.com).
 
