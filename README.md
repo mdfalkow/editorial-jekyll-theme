@@ -4,12 +4,11 @@ A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/) us
 
 For the original version, see [https://html5up.net/editorial](https://html5up.net/editorial). 
 
-The Jekyll integrated version can be found at [https://github.com/andrewbanchich/editorial-jekyll-theme](https://github.com/andrewbanchich/editorial-jekyll-theme).
+The Jekyll-integrated version from which this template was forked can be found at [https://github.com/andrewbanchich/editorial-jekyll-theme](https://github.com/andrewbanchich/editorial-jekyll-theme).
 
 # How to Use
 
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
+For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details, or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
 - **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
@@ -46,7 +45,7 @@ If you would like to report a bug, ask a question, or request a feature **that d
 
 Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/editorial-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/editorial-jekyll-theme@incoming.gitlab.com).
 
-The GitHub repository is simply a mirror of the GitLab repository.
+The [GitHub repository](https://github.com/andrewbanchich/editorial-jekyll-theme) from which this template was forked is a mirror of the [GitLab repository](https://gitlab.com/andrewbanchich/editorial-jekyll-theme).
 
 # Credits
 
