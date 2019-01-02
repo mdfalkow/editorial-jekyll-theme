@@ -1,6 +1,6 @@
-# Editorial - Jekyll Theme | Alternative Color Scheme
+# Editorial - Jekyll Theme | Alternate Color Scheme
 
-A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/) using an alternative color scheme designed by me, [@mdfalkow](https://github.com/mdfalkow/).
+A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/) using an alternate color scheme designed by me, [@mdfalkow](https://github.com/mdfalkow/).
 
 For the original version, see [https://html5up.net/editorial](https://html5up.net/editorial). 
 
