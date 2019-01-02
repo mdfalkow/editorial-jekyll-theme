@@ -1,6 +1,6 @@
-# (WIP) Editorial - Jekyll Theme
+# (WIP) Editorial - Jekyll Theme | Alternative Color Scheme
 
-A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).
+A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/) using an alternative color scheme.
 
 ![Editorial Theme](assets/images/screenshot.jpg "Editorial Theme")
 
