@@ -1,4 +1,4 @@
-# Note: Currently not functional with Github pages (if it is, I have no clue how to make it work).
+> Note: Currently not functional with Github pages (if it is, I have no clue how to make it work).
 
 
 # Editorial - Jekyll Theme | Alternate Color Scheme
